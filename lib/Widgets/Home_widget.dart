@@ -22,7 +22,7 @@ class Home extends StatelessWidget {
                         return const Icon(Icons.image_not_supported);
                       }, width: 500, height: 250, fit: BoxFit.fill),
                   const Text(
-                    'This is a text',
+                    'This is a random Text',
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                   ),
                 ],
